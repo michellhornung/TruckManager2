@@ -1,0 +1,9 @@
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Domain/bin/Debug/netcoreapp3.1/TruckManager.Domain.deps.json
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Domain/bin/Debug/netcoreapp3.1/TruckManager.Domain.dll
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Domain/bin/Debug/netcoreapp3.1/TruckManager.Domain.pdb
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Domain/obj/Debug/netcoreapp3.1/TruckManager.Domain.csprojAssemblyReference.cache
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Domain/obj/Debug/netcoreapp3.1/TruckManager.Domain.csproj.CoreCompileInputs.cache
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Domain/obj/Debug/netcoreapp3.1/TruckManager.Domain.AssemblyInfoInputs.cache
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Domain/obj/Debug/netcoreapp3.1/TruckManager.Domain.AssemblyInfo.cs
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Domain/obj/Debug/netcoreapp3.1/TruckManager.Domain.dll
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Domain/obj/Debug/netcoreapp3.1/TruckManager.Domain.pdb

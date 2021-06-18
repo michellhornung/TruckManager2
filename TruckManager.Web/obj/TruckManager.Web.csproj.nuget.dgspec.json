@@ -1,0 +1,191 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/michellhornung/Downloads/TruckManager/TruckManager.Web/TruckManager.Web.csproj": {}
+  },
+  "projects": {
+    "/Users/michellhornung/Downloads/TruckManager/TruckManager.Domain/TruckManager.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/michellhornung/Downloads/TruckManager/TruckManager.Domain/TruckManager.Domain.csproj",
+        "projectName": "TruckManager.Domain",
+        "projectPath": "/Users/michellhornung/Downloads/TruckManager/TruckManager.Domain/TruckManager.Domain.csproj",
+        "packagesPath": "/Users/michellhornung/.nuget/packages/",
+        "outputPath": "/Users/michellhornung/Downloads/TruckManager/TruckManager.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/michellhornung/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/michellhornung/Downloads/TruckManager/TruckManager.InfraStructure/TruckManager.InfraStructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/michellhornung/Downloads/TruckManager/TruckManager.InfraStructure/TruckManager.InfraStructure.csproj",
+        "projectName": "TruckManager.InfraStructure",
+        "projectPath": "/Users/michellhornung/Downloads/TruckManager/TruckManager.InfraStructure/TruckManager.InfraStructure.csproj",
+        "packagesPath": "/Users/michellhornung/.nuget/packages/",
+        "outputPath": "/Users/michellhornung/Downloads/TruckManager/TruckManager.InfraStructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/michellhornung/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/michellhornung/Downloads/TruckManager/TruckManager.Domain/TruckManager.Domain.csproj": {
+                "projectPath": "/Users/michellhornung/Downloads/TruckManager/TruckManager.Domain/TruckManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/michellhornung/Downloads/TruckManager/TruckManager.Web/TruckManager.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/michellhornung/Downloads/TruckManager/TruckManager.Web/TruckManager.Web.csproj",
+        "projectName": "TruckManager.Web",
+        "projectPath": "/Users/michellhornung/Downloads/TruckManager/TruckManager.Web/TruckManager.Web.csproj",
+        "packagesPath": "/Users/michellhornung/.nuget/packages/",
+        "outputPath": "/Users/michellhornung/Downloads/TruckManager/TruckManager.Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/michellhornung/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/michellhornung/Downloads/TruckManager/TruckManager.InfraStructure/TruckManager.InfraStructure.csproj": {
+                "projectPath": "/Users/michellhornung/Downloads/TruckManager/TruckManager.InfraStructure/TruckManager.InfraStructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Application/bin/Debug/netcoreapp3.1/TruckManager.Application.deps.json
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Application/bin/Debug/netcoreapp3.1/TruckManager.Application.dll
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Application/bin/Debug/netcoreapp3.1/TruckManager.Application.pdb
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Application/bin/Debug/netcoreapp3.1/TruckManager.Domain.dll
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Application/bin/Debug/netcoreapp3.1/TruckManager.InfraStructure.dll
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Application/bin/Debug/netcoreapp3.1/TruckManager.Domain.pdb
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Application/bin/Debug/netcoreapp3.1/TruckManager.InfraStructure.pdb
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Application/obj/Debug/netcoreapp3.1/TruckManager.Application.csprojAssemblyReference.cache
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Application/obj/Debug/netcoreapp3.1/TruckManager.Application.csproj.CoreCompileInputs.cache
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Application/obj/Debug/netcoreapp3.1/TruckManager.Application.AssemblyInfoInputs.cache
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Application/obj/Debug/netcoreapp3.1/TruckManager.Application.AssemblyInfo.cs
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Application/obj/Debug/netcoreapp3.1/TruckManager.Application.csproj.CopyComplete
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Application/obj/Debug/netcoreapp3.1/TruckManager.Application.dll
+/Users/michellhornung/Downloads/TruckManager/TruckManager.Application/obj/Debug/netcoreapp3.1/TruckManager.Application.pdb

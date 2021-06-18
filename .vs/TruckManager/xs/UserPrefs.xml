@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{67066B71-9085-4B84-AC66-8F6651CC027A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TruckManager.InfraStructure/TruckManagerContext.cs">
+    <Files>
+      <File FileName="TruckManager.InfraStructure/TruckManagerContext.cs" Line="34" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TruckManager" expanded="True">
+            <Node name="TruckManager.InfraStructure" expanded="True">
+              <Node name="TruckManagerContext.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TruckManager.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
